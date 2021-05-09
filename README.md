@@ -4,9 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pacificescape&show_icons=true&&theme=material-palenight" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pacificescape/&title=Profile%20Views)
-
-
 <!--
 **pacificescape/pacificescape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
